@@ -1,2 +1,1 @@
-# AAAI-2025-paper
-the code of AutoSGNN: Automatic Propagation Mechanism Discovery for Spectral Graph Neural Networks.
+This repo is for source code of "AutoSGNN: Automatic Propagation Mechanism Discovery for Spectral Graph Neural Networks".
